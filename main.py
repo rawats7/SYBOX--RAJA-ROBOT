@@ -60,7 +60,7 @@ async def approve_and_send(update: Update, context: ContextTypes.DEFAULT_TYPE):
 ♻सहायता के लिए @SYVOX007
 
 🔴हैक का उपयोग कैसे करें
-https://t.me/rajaindiaprediction/54
+https://t.me/+Lbu7qtsKpSgwYTUx
 """
             )
 
@@ -72,7 +72,7 @@ https://t.me/rajaindiaprediction/54
                 voice=voice,
                 caption="""
 🎙 सदस्य 9X गुना लाभ का प्रमाण 👇🏻
-https://t.me/rajaindiaprediction/56
+https://t.me/+Lbu7qtsKpSgwYTUx
 
 ♻सहायता के लिए @SYVOX007
 लगातार नंबर पे नंबर जीतना 🤑♻👑
